@@ -1,7 +1,7 @@
 {
     "name": "kmvan/participle",
     "description": "This is a participle library",
-    "version": "1.0.0",
+    "version": "10.0.0",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
