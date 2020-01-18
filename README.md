@@ -11,7 +11,7 @@ QQ交流群: 731475644
 ## 安装
 
 ```shell
-composer require kmvan/php-participle
+composer require kmvan/participle
 ```
 
 ## 分词说明
